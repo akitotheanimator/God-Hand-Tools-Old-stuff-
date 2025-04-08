@@ -14,6 +14,7 @@ Thanks for:
 * Roni Evil - Helped me to understand the SEQ file format./**https://www.youtube.com/@ronievil**
 * Rin - Helped me to understand triangle stripping./**https://github.com/anasrar/**
 * JaderLink - Helped me to understand triangle stripping./**https://github.com/JADERLINK/**
+* MuzzleFlash - Creator of MFAudio./**https://gamebanana.com/tools/6656**
 
 # DAT Extractor
 
@@ -46,7 +47,7 @@ How to use the tool:
 https://www.youtube.com/watch?v=GyOX3qUXCUM
 
 
-# SESTool (Thanks to MuzzleFlash)
+# SESTool
 
 My lastest tool, thanks to MFAudio, the creation of Muzzleflash, now God Hand .SES audio banks can be edited!
 Note: **SESTool doesn't work if a MFAudio executable isn't located in the same path as the SESTool executable.**

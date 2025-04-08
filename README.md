@@ -8,7 +8,7 @@ With that said, all the old deprecated stuff will be removed from the main God H
 
 **some of the tools in this pack outputs SMD's. Install this addon for blender in order to import smd's on blender:** http://steamreview.org/BlenderSourceTools/
 
-Thanks for:
+Thanks to:
 * CarLoiD - Carloid helped me a lot to understand further on how the god hand file system works./**https://github.com/CarLoiD**
 * Kerilk - Played major role on helping me to understand the MOT animation format./**https://github.com/Kerilk**
 * Roni Evil - Helped me to understand the SEQ file format./**https://www.youtube.com/@ronievil**
